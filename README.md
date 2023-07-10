@@ -1,3 +1,4 @@
+![viewboard](https://github.com/nyanchamaB/admin_dashboard/assets/114730535/b141caa5-dca6-4454-877c-19f59180e82f)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
